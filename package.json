@@ -1,0 +1,12 @@
+{
+  "name": "go-shop-mart-backend",
+  "version": "1.0.0",
+  "description": "Go Shop Mart backend for license validation",
+  "main": "api/validate.js",
+  "scripts": {
+    "generate": "node scripts/generate.js"
+  },
+  "dependencies": {
+    "jsonwebtoken": "^9.0.2"
+  }
+}
